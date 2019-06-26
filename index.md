@@ -1,5 +1,5 @@
 ---
-layout: page #home
+layout: home
 ---
 
 ![My picture](assets/pic.jpg){:style="float: right; margin-left: 10px; margin-right: 0px; margin-top: 7px;"}
