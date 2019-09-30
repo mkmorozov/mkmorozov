@@ -6,13 +6,19 @@ permalink: /cv/
 
 [Full CV PDF](assets/MorozovM_CV.pdf)
 
-#### 2017-Present, **Postdoctoral Researcher**, École Polytechnique, France
+#### 2019-Present, **Postdoctoral Researcher**, Université Libre de Bruxelles, Belgium
+
+**Focus**: nonlinear chemical reactions in active emulsions.
+
+#### 2017-2019, **Postdoctoral Researcher**, École Polytechnique, France
 
 **Focus**: nonlinear dynamics of chemically active microdroplets.
 
 * [Symmetry breaking in active microdrops depends on their deformability with highly-deformable drops exhibiting subcritical bifurcation.](https://doi.org/10.1017/jfm.2018.853)
 
 * [Unsteady reagent advection may be responsible for chaotic behavior of active microdrops.](https://doi.org/10.1063/1.5080539)
+
+* [Helical self-propulsion trajectories observed in dissolving nematic droplets may be due to the competition between nematic reorientation mechanisms.](https://doi.org/10.1039/C9SM01076A)
 
 #### 2015-2017, **Postdoctoral Researcher**, Technion, Israel
 
